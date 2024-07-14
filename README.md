@@ -1,5 +1,7 @@
 <h1 >Password Generator Web App</h1>
 
+<a href="https://hari659tri.github.io/Random_PassWord_Generator-Web-App-/">Click to See Live</a>
+<br> <br>
 <p>password generator app has main key features:</p>
 <ol> 
 <li> Creates strong passwords with uppercase, lowercase, numbers, and special characters or symbols.
@@ -13,6 +15,7 @@
 <li><b>Medium</b>:if one of the fields is missing in the password or  length is less than eight and greater then or equal to six.  </li>
 <li><b>Easy:</b> if two of the fields are missing in the password </li>
 </ul>
+
 
 
  ![Screenshot 2024-07-14 191400](https://github.com/user-attachments/assets/2f375824-57c9-4596-888e-aba81fb9d49b)
